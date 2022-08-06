@@ -1,7 +1,7 @@
-# cat-mv
-
+# cat move 🐾
+```bash
+echo "Redefining clodOps" 
 ```
-$ echo Redefining clodOps 
 
 Stay tuned ...
-```
+
